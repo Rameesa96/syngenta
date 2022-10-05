@@ -1,0 +1,11 @@
+@media (min-width: 1280px) {
+  .ieOld #CMD .large_use {
+    display: inline; }
+  .ieOld #CMD .wd__innerbtn .inner__btn .toggleSlide {
+    -webkit-transform: translateY(0) rotate(0deg) !important;
+    -ms-transform: translateY(0) rotate(0deg) !important;
+    transform: translateY(0) rotate(0deg) !important; }
+  .ieOld #CMD .section__4 .sectionSlide .slide-item.slide-2 .wd__content.main-content .content__title,
+  .ieOld #CMD .section__4 .sectionSlide .slide-item.slide-3 .wd__content.main-content .content__title,
+  .ieOld #CMD .section__4 .sectionSlide .slide-item.slide-4 .wd__content.main-content .content__title {
+    color: #0ebfcd; } }

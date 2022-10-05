@@ -1,0 +1,217 @@
+/*** Global ***/
+.text__light {
+  font-family: "Myriad W01_n1", "Myriad W01", "Segoe UI", sans-serif !important;
+  font-weight: 100 !important;
+  font-style: normal !important; }
+
+.text__regular {
+  font-family: "Myriad W01_n2", "Myriad W01", "Segoe UI", sans-serif !important;
+  font-weight: 200 !important;
+  font-style: normal !important; }
+
+.text__semibold {
+  font-family: "Myriad W01_n3", "Myriad W01", "Segoe UI", sans-serif !important;
+  font-weight: 300 !important;
+  font-style: normal !important; }
+
+.text-italic {
+  font-style: italic !important;
+  padding-right: 0.2em; }
+
+.modal-button-copy {
+  font-family: "Myriad W01_n2", "Myriad W01", "Segoe UI", sans-serif !important;
+  font-weight: 200 !important;
+  font-style: normal !important; }
+
+.modal-button-container .modal-button-text,
+.modal-button-container .modal-inner-text {
+  font-family: "Myriad W01_n2", "Myriad W01", "Segoe UI", sans-serif !important;
+  font-weight: 200 !important;
+  font-style: normal !important; }
+
+.footnote .footnote-item,
+.footnote .footnote-item div,
+.footnote .footnote-item span,
+.footnote .footnote-item sup,
+.comment,
+.comment div,
+.comment span,
+.comment sup {
+  font-family: "Myriad W01_n1", "Myriad W01", "Segoe UI", sans-serif;
+  font-weight: 100;
+  font-style: normal; }
+
+.wd__content * {
+  font-family: "Myriad W01_n1", "Myriad W01", "Segoe UI", sans-serif;
+  font-weight: 100;
+  font-style: normal; }
+
+.wd__content .content__slogan,
+.wd__content .content__slogan div,
+.wd__content .content__slogan span,
+.wd__content .content__slogan sup {
+  font-family: "Myriad W01_n3", "Myriad W01", "Segoe UI", sans-serif;
+  font-weight: 300;
+  font-style: normal; }
+
+.wd__content .content__title,
+.wd__content .content__title div,
+.wd__content .content__title span,
+.wd__content .content__title sup {
+  font-family: "Myriad W01_n3", "Myriad W01", "Segoe UI", sans-serif;
+  font-weight: 300;
+  font-style: normal; }
+
+.wd__content .content__link,
+.wd__content .content__link div,
+.wd__content .content__link span,
+.wd__content .content__link sup {
+  font-family: "Myriad W01_n2", "Myriad W01", "Segoe UI", sans-serif;
+  font-weight: 200;
+  font-style: normal; }
+
+.section__kv .wd__content .content__title,
+.section__kv .wd__content .content__title div,
+.section__kv .wd__content .content__title span,
+.section__kv .wd__content .content__title sup {
+  font-family: "Myriad W01_n3", "Myriad W01", "Segoe UI", sans-serif;
+  font-weight: 300;
+  font-style: normal; }
+
+.section__kv .wd__content .content__slogan,
+.section__kv .wd__content .content__slogan div,
+.section__kv .wd__content .content__slogan span,
+.section__kv .wd__content .content__slogan sup {
+  font-family: "Myriad W01_n2", "Myriad W01", "Segoe UI", sans-serif;
+  font-weight: 200;
+  font-style: normal; }
+
+.wd__link__arrow::after {
+  font-family: "Myriad W01_n2", "Myriad W01", "Segoe UI", sans-serif;
+  font-weight: 200;
+  font-style: normal; }
+
+.wd__feature__list * {
+  font-family: "Myriad W01_n1", "Myriad W01", "Segoe UI", sans-serif;
+  font-weight: 100;
+  font-style: normal; }
+
+.wd__feature__list .wd__feature .wd__feature__data,
+.wd__feature__list .wd__feature .wd__feature__data span,
+.wd__feature__list .wd__feature .wd__feature__data sup,
+.wd__feature__list .wd__feature .wd__feature__data div {
+  font-family: "Myriad W01_n2", "Myriad W01", "Segoe UI", sans-serif;
+  font-weight: 200;
+  font-style: normal; }
+
+.wd__feature__list .wd__feature .wd__feature__describe__top,
+.wd__feature__list .wd__feature .wd__feature__describe__top span,
+.wd__feature__list .wd__feature .wd__feature__describe__top sup,
+.wd__feature__list .wd__feature .wd__feature__describe__top div,
+.wd__feature__list .wd__feature .wd__feature__describe,
+.wd__feature__list .wd__feature .wd__feature__describe span,
+.wd__feature__list .wd__feature .wd__feature__describe sup,
+.wd__feature__list .wd__feature .wd__feature__describe div {
+  font-family: "Myriad W01_n2", "Myriad W01", "Segoe UI", sans-serif;
+  font-weight: 200;
+  font-style: normal; }
+
+.slick__nav {
+  font-family: "Myriad W01_n1", "Myriad W01", "Segoe UI", sans-serif;
+  font-weight: 100;
+  font-style: normal; }
+
+@media all and (min-width: 1279.5px) {
+  .text__light-large {
+    font-family: "Myriad W01_n1", "Myriad W01", "Segoe UI", sans-serif !important;
+    font-weight: 100 !important;
+    font-style: normal !important; }
+  .text__regular-large {
+    font-family: "Myriad W01_n2", "Myriad W01", "Segoe UI", sans-serif !important;
+    font-weight: 200 !important;
+    font-style: normal !important; }
+  .text__semibold-large {
+    font-family: "Myriad W01_n3", "Myriad W01", "Segoe UI", sans-serif !important;
+    font-weight: 300 !important;
+    font-style: normal !important; } }
+
+@media all and (min-width: 731px) and (max-width: 1279.5px) {
+  .text__light-medium {
+    font-family: "Myriad W01_n1", "Myriad W01", "Segoe UI", sans-serif !important;
+    font-weight: 100 !important;
+    font-style: normal !important; }
+  .text__regular-medium {
+    font-family: "Myriad W01_n2", "Myriad W01", "Segoe UI", sans-serif !important;
+    font-weight: 200 !important;
+    font-style: normal !important; }
+  .text__semibold-medium {
+    font-family: "Myriad W01_n3", "Myriad W01", "Segoe UI", sans-serif !important;
+    font-weight: 300 !important;
+    font-style: normal !important; }
+  .collapse__list__grid .answer * {
+    font-family: "Myriad W01_n2", "Myriad W01", "Segoe UI", sans-serif !important;
+    font-weight: 200 !important;
+    font-style: normal !important; } }
+
+@media all and (max-width: 730.5px) {
+  .text__light-small {
+    font-family: "Myriad W01_n1", "Myriad W01", "Segoe UI", sans-serif !important;
+    font-weight: 100 !important;
+    font-style: normal !important; }
+  .text__regular-small {
+    font-family: "Myriad W01_n2", "Myriad W01", "Segoe UI", sans-serif !important;
+    font-weight: 200 !important;
+    font-style: normal !important; }
+  .text__semibold-small {
+    font-family: "Myriad W01_n3", "Myriad W01", "Segoe UI", sans-serif !important;
+    font-weight: 300 !important;
+    font-style: normal !important; }
+  .footnote .footnote-item {
+    font-family: "Myriad W01_n2", "Myriad W01", "Segoe UI", sans-serif !important;
+    font-weight: 200 !important;
+    font-style: normal !important; }
+  .wd__content .content__info,
+  .wd__content .content__info div,
+  .wd__content .content__info span,
+  .wd__content .content__info a,
+  .wd__content .content__info sup {
+    font-family: "Myriad W01_n2", "Myriad W01", "Segoe UI", sans-serif !important;
+    font-weight: 200 !important;
+    font-style: normal !important; }
+  .wd__content .content__comment,
+  .wd__content .content__comment div,
+  .wd__content .content__comment span,
+  .wd__content .content__comment a,
+  .wd__content .content__comment sup {
+    font-family: "Myriad W01_n2", "Myriad W01", "Segoe UI", sans-serif;
+    font-weight: 200;
+    font-style: normal; }
+  .wd__content .content__link,
+  .wd__content .content__link div,
+  .wd__content .content__link span,
+  .wd__content .content__link a,
+  .wd__content .content__link sup {
+    font-family: "Myriad W01_n2", "Myriad W01", "Segoe UI", sans-serif;
+    font-weight: 200;
+    font-style: normal; }
+  .section__kv .wd__content .content__info,
+  .section__kv .wd__content .content__info div,
+  .section__kv .wd__content .content__info span,
+  .section__kv .wd__content .content__info sup {
+    font-family: "Myriad W01_n1", "Myriad W01", "Segoe UI", sans-serif;
+    font-weight: 100;
+    font-style: normal; }
+  .section__kv .wd__content .content__comment,
+  .section__kv .wd__content .content__comment div,
+  .section__kv .wd__content .content__comment span,
+  .section__kv .wd__content .content__comment sup {
+    font-family: "Myriad W01_n1", "Myriad W01", "Segoe UI", sans-serif;
+    font-weight: 100;
+    font-style: normal; }
+  .section__kv .wd__content .content__link,
+  .section__kv .wd__content .content__link div,
+  .section__kv .wd__content .content__link span,
+  .section__kv .wd__content .content__link sup {
+    font-family: "Myriad W01_n1", "Myriad W01", "Segoe UI", sans-serif;
+    font-weight: 100;
+    font-style: normal; } }
